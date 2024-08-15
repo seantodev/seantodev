@@ -1,11 +1,11 @@
-# Merhaba, Ben Furkan! 👋
+# Merhaba, Ben Sergio! 👋
 
 Ben bir **Yazılım Mühendisi** ve **Teknoloji Meraklısı**. Berlin'de yazılım mühendisliği okuyorum ve çeşitli projelerde yer alıyorum. Özellikle **yazılım geliştirme**, **siber güvenlik** ve **Minecraft** sunucu yönetimi konularına ilgi duyuyorum.
 
 ## 🚀 Projelerim
 
-- **[AzgedaNetwork](https://azgedanetwork.com)**: Hali hazırda minecraft skyblock sunucusu.
-- **[Skaikru Topluluğu](https://discord.gg/skaikru)**: Dinamik bir Discord topluluğu ve sohbet sunucusu.
+- **[AzgedaNetwork](https://seanto.online)**: Hali hazırda minecraft skyblock sunucusu.
+- **[Skaikru Topluluğu](https://seanto.online)**: Dinamik bir Discord topluluğu ve sohbet sunucusu.
 
 ## 🛠️ Kullanım Alanlarım
 
@@ -15,13 +15,12 @@ Ben bir **Yazılım Mühendisi** ve **Teknoloji Meraklısı**. Berlin'de yazıl�
 
 ## 💻 Teknolojiler
 
-- **Programlama Dilleri**: JavaScript, Python, Java
+- **Programlama Dilleri**: JavaScript, Python, Java, PHP, HTML5, CSS
 - 
 ## 🌐 Sosyal Medya
 
-- [Discord](https://discord.gg/skaikru)
-- [Twitter](https://twitter.com/profesorback)
-- [Instagram](https://instagram.com/seantodev)
+- [Discord](https://discord.com/users/930886031824281651)
+- [Website](https://seanto.online)
 
 ## 📫 Bana Ulaşın
 
