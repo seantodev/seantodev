@@ -16,7 +16,7 @@ Ben bir **Yazılım Mühendisi** ve **Teknoloji Meraklısı**. Berlin'de yazıl�
 ## 💻 Teknolojiler
 
 - **Programlama Dilleri**: JavaScript, Python, Java, PHP, HTML5, CSS
-- 
+- **Ek Kütüphaneler**: Discord.js, JDA, Discord.py, DSharpPlus, Eris
 ## 🌐 Sosyal Medya
 
 - [Discord](https://discord.com/users/930886031824281651)
