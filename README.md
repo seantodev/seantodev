@@ -4,7 +4,7 @@ Ben bir **Yazılım Mühendisi** ve **Teknoloji Meraklısı**. Berlin'de yazıl�
 
 ## 🚀 Projelerim
 
-- **[Seanto API System](https://seanto.online)**: Discord botlarının express.js faydalanarak web api sistemleriyle güçlendirilmiş projesi.
+- **[Seanto API System](https://seanto.online)**: Discord botlarının Express.js'den faydalanarak web API sistemleriyle güçlendirilmiş projesi
 - **[Arkadia Topluluğu](https://discord.gg/the100)**: Dinamik bir Discord topluluğu ve sohbet sunucusu.
 
 ## 🛠️ Kullanım Alanlarım
@@ -12,6 +12,7 @@ Ben bir **Yazılım Mühendisi** ve **Teknoloji Meraklısı**. Berlin'de yazıl�
 - **Minecraft Sunucu Yönetimi**: Özelleştirilmiş sunucu ayarları ve eklentiler ile optimizasyon.
 - **Discord Bot Geliştirme**: Özelleştirilmiş komutlar ve otomasyon sistemleri.
 - **Web Tasarımı**: Modern ve animasyonlu web sayfaları tasarımı.
+- **API System**: Discord botlarına API sistemlerinden faydalanarak eklenen belirli düzeyde komutlar ve sistemler.
 
 ## 💻 Teknolojiler
 
