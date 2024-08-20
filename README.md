@@ -4,8 +4,8 @@ Ben bir **Yazılım Mühendisi** ve **Teknoloji Meraklısı**. Berlin'de yazıl�
 
 ## 🚀 Projelerim
 
-- **[AzgedaNetwork](https://seanto.online)**: Hali hazırda minecraft skyblock sunucusu.
-- **[Skaikru Topluluğu](https://seanto.online)**: Dinamik bir Discord topluluğu ve sohbet sunucusu.
+- **[Seanto API System](https://seanto.online)**: Discord botlarının express.js faydalanarak web api sistemleriyle güçlendirilmiş projesi.
+- **[Arkadia Topluluğu](https://discord.gg/the100)**: Dinamik bir Discord topluluğu ve sohbet sunucusu.
 
 ## 🛠️ Kullanım Alanlarım
 
